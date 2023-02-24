@@ -1,1 +1,2 @@
 # etch-a-sketch
+This is an Etch-A-Sketch project made during my Foundations Course in The Odin Project. It consists of a grid that changes colors when the mouse hovers its squares. The user can also set the resolution. 
